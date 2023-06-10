@@ -1,7 +1,7 @@
 - 👋 Hi, I am Ali Rezghi. I have a M.Sc. in Engineering Science.
-- 👀 I’m interested in Data Science and also Deep learning systems.
-- 🌱 I’m currently learning IBM Data Science Professional Course (with certificate) and laso advanced python programming.
-- 💞️ I’m looking to collaborate on projects related to application of Data Science/Machine Learning in healthcare sector and also recommendation systems.
+- 👀 I’m passionate about Data Science and also Deep learning systems.
+- I’m currently learning Udacity Data Scientist Course (with certificate) and receivd IBM Data Science Professional Course (with certificate).
+- 💞️ I’m looking to collaborate on projects related to application of Data Science/Machine Learning in recommendation systems and also healthcare sector.
 - 📫 You can reach me at my email: a.rezghi90@gmail.com
 
 <!---
